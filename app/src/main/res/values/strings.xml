@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UzbekDevs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="javascript_demo">Kirish</string>
+
+    <string name="django_demo">Kirish</string>
+    <string name="cplus_demo">Kirish</string>
+    <string name="vue_js_demo">Kirish</string>
+    <string name="go_lang_demo">Kirish</string>
+    <string name="dart_demo">Kirish</string>
+    <string name="laravel_demo">Kirish</string>
+    <string name="sql_demo">Kirish</string>
+    <string name="java_demo">Kirish</string>
+    <string name="csharp_demo">Kirish</string>
+    <string name="php_demo">Kirish</string>
+    <string name="git_demo">Kirish</string>
+    <string name="c_demo">Kirish</string>
+    <string name="swift_demo">Kirish</string>
+    <string name="ruby_demo">Kirish</string>
+    <string name="scala_demo">Kirish</string>
+    <string name="kotlin_demo">Kirish</string>
+    <string name="python_demo">Kirish</string>
+    <string name="html_demo">Kirish</string>
+</resources>
